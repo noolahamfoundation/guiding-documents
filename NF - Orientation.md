@@ -44,6 +44,7 @@
 * எப்படிச் செயற்படுகிறோம்
     * ஆண்டுத் திட்டமிடலும் வரவுசெலவும் (Annual Plan and Budget - APB) - இதனூடாகவே நாம் எமது நிகழ்சித் திட்டத்தை பெருதும் வரையறை செய்கிறோம்.  
     * செயற்திட்டங்கள், செயலாக்கங்கள் - பணிக் குழுக்கள் (Processes, Projects, Units - Working Groups)
+        * ஒவ்வொரு முக்கிய செயலாக்கத்துக்கும் செயற்திட்டதுக்கும் ஒரு ஊழியர் ஒருங்கிணைப்பாளர், செயலாக்க கண்காணிப்பாளர்
     * Operations: Office Management, Core Work, Ground Work/Outreach, Finance
     * Initiatives and Proposals - 
 
