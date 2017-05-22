@@ -4,7 +4,8 @@
 
 ## கடந்து வந்த பாதையும் கற்றல்களும்
 * [நமது வரலாறு](http://noolahamfoundation.org/web/ta/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81)
-* நூலகம்- மடைமாற்றத்தைநோக்கி
+* *நூலகம்- மடைமாற்றத்தைநோக்கி*
+* *நூலகம் : இன்னுமொரு காலடி* உரையாடல்கள்
 
 ## பொது இலக்குகள்
 * [தொலைநோக்கு](https://github.com/noolahamfoundation/guiding-documents/blob/master/NF%20-%20Mission.md)
