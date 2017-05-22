@@ -3,7 +3,8 @@
 * [அறிமுகம்](http://www.noolahamfoundation.org/documents/introductions/IntrodocNoolaham.pdf)
 
 ## கடந்து வந்த பாதையும் கற்றல்களும்
-* [நமது வரலாறு](http://noolahamfoundation.org/web/ta/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81)
+* [நமது வரலாறு](http://noolahamfoundation.org/web/ta/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81), [
+காலக்கோடு](http://www.noolahamfoundation.org/documents/introductions/PP_Manual_NF_2015.pdf) (பக்கங்கள் 52 - 54)
 * *நூலகம்- மடைமாற்றத்தைநோக்கி*
 * *நூலகம் : இன்னுமொரு காலடி* உரையாடல்கள்
 
