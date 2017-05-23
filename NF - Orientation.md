@@ -74,6 +74,7 @@
 * வழிகாட்டுநர் சபை சந்திப்புக் குறிப்புகள் - RB Meeting Agenda, Action Items, Decisions, Discussion Notes
 * மாதாந்த திட்ட அறிக்கை - Monthly Program Report
 * மாதாந்த நிதி அறிக்கை - Monthly Finance Report
+* ஆண்டுத் திட்டமிடலும் வரவுசெலவும் (Annual Plan and Budget - APB)
 * செயற்திட்ட அறிக்கைகள் - Project Reports as required
 * ஆண்டு அறிக்கைகள் - Annual Reports
 * வலைத்தளம், வலைப்பதிவு, சமூக வலை
