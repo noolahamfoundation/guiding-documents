@@ -5,8 +5,10 @@
 ## கடந்து வந்த பாதையும் கற்றல்களும்
 * [நமது வரலாறு](http://noolahamfoundation.org/web/ta/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81), [
 காலக்கோடு](http://www.noolahamfoundation.org/documents/introductions/PP_Manual_NF_2015.pdf) (பக்கங்கள் 52 - 54)
-* *நூலகம்- மடைமாற்றத்தைநோக்கி*
+* *நூலகம் : மடைமாற்றத்தைநோக்கி*
 * *நூலகம் : இன்னுமொரு காலடி* உரையாடல்கள்
+* [நூலக நிறுவனத்தின் தகவல் அறிவியல் சார் தேவைகள்](https://github.com/noolahamfoundation/information-science/wiki/%E0%AE%A8%E0%AF%82%E0%AE%B2%E0%AE%95-%E0%AE%A8%E0%AE%BF%E0%AE%B1%E0%AF%81%E0%AE%B5%E0%AE%A9%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D-%E0%AE%A4%E0%AE%95%E0%AE%B5%E0%AE%B2%E0%AF%8D-%E0%AE%85%E0%AE%B1%E0%AE%BF%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D-%E0%AE%9A%E0%AE%BE%E0%AE%B0%E0%AF%8D-%E0%AE%A4%E0%AF%87%E0%AE%B5%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D)
+* [Noolaham Foundation’s Technology Roadmap](https://github.com/noolahamfoundation/guiding-documents/wiki/Noolaham-Foundation%E2%80%99s-Technology-Roadmap)
 
 ## நமது பொது இலக்குகள்
 * [தொலைநோக்கு](https://github.com/noolahamfoundation/guiding-documents/blob/master/NF%20-%20Mission.md)
